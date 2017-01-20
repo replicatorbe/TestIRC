@@ -9,4 +9,10 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <plugin name="cordova-plugin-legacy-whitelist" spec="1.1.1" />
+    <access origin="http://irc.baboon.fr" />
+    <allow-navigation href="http://irc.baboon.fr/" />
+    <allow-navigation href="https://irc.baboon.fr/" />
+    <allow-navigation href="http://www.baboon.fr/" />
+    <allow-navigation href="https://www.baboon.fr/" />
 </widget>
