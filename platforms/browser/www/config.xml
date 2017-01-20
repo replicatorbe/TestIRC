@@ -8,6 +8,7 @@
        Jérôme Fafchamps
     </author>
     <content src="index.html" />
+    <allow-navigation href="*" />
+    <allow-intent href="*" />
     <access origin="*" />
-    <access origin="http://irc.baboon.fr" />
 </widget>
