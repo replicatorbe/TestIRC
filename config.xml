@@ -14,10 +14,5 @@
 <allow-navigation href="*" />
 <allow-intent href="*" />
 <access origin="*" />
-    <platform name="android">
-              <icon src="res/icon/android/ldpi.png" density="ldpi" />
-              <icon src="res/icon/android/mdpi.png" density="mdpi" />
-              <icon src="res/icon/android/hdpi.png" density="hdpi" />
-              <icon src="res/icon/sandroid/xhdpi.png" density="xhdpi" />
-     </platform>
+    <icon src="res/icon/android/ldpi.png" /> 
 </widget>
